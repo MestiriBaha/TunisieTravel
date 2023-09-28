@@ -28,5 +28,9 @@ Here, we have two major consumers of this application. One is the Agency users (
 ```
 -----
 
+### Our Application Architecture
+based on a Domain centric Architecture  
+![image](https://github.com/MestiriBaha/TunisieTravel/assets/92154267/424b3081-21d1-4bb0-9ac5-e36cb7cee177)
+
 
  
